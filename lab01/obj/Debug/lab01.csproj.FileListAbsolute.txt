@@ -1,0 +1,7 @@
+D:\WorkingSpace\NTL\Intership\CF303520-Jiw\Lab01\ntl-lab00\lab01\bin\Debug\lab01.exe.config
+D:\WorkingSpace\NTL\Intership\CF303520-Jiw\Lab01\ntl-lab00\lab01\bin\Debug\lab01.exe
+D:\WorkingSpace\NTL\Intership\CF303520-Jiw\Lab01\ntl-lab00\lab01\bin\Debug\lab01.pdb
+D:\WorkingSpace\NTL\Intership\CF303520-Jiw\Lab01\ntl-lab00\lab01\obj\Debug\lab01.csprojAssemblyReference.cache
+D:\WorkingSpace\NTL\Intership\CF303520-Jiw\Lab01\ntl-lab00\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+D:\WorkingSpace\NTL\Intership\CF303520-Jiw\Lab01\ntl-lab00\lab01\obj\Debug\lab01.exe
+D:\WorkingSpace\NTL\Intership\CF303520-Jiw\Lab01\ntl-lab00\lab01\obj\Debug\lab01.pdb
